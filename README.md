@@ -1,6 +1,7 @@
 # 📈 Financial Market Prediction Dashboard
 
 An end-to-end Machine Learning web application that predicts the next-day direction (UP/DOWN) of stocks and cryptocurrencies using technical indicators and a Random Forest classification model.
+Link:-https://financial-ml-predictor-ggpmmprxl4znuqbkks7b2m.streamlit.app
 
 ---
 
@@ -68,4 +69,5 @@ Example symbols:
 
 ```bash
 pip install -r requirements.txt
+
 streamlit run app.py

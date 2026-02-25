@@ -98,4 +98,5 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-st.caption("Machine Learning Financial Predictor | Built using Random Forest + Streamlit")
+
+st.caption(" Developed by Kundan Kumawat")
